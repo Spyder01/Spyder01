@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Spyder01's Github Stats](https://github-readme-stats.vercel.app/api?username=Spyder01)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyder01&layout=compact)]
