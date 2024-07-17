@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Spyder01's Github Stats](https://github-readme-stats.vercel.app/api?username=Spyder01)
+![Spyder01's Github Stats](https://github-readme-stats.vercel.app/api?username=Spyder01&theme=gruvbox)
+
+![Spyder01's Github Streaks](https://streak-stats.demolab.com/?user=Spyder01&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyder01&layout=compact)
