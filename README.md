@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spyder01)
+[![trophy](https://github-profile-trophy.vercel.app/?username=spyder01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
