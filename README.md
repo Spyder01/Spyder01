@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Spyder01's Github Stats](https://github-readme-stats.vercel.app/api?username=Spyder01)
-
-![Spyder01's Github Streaks](https://streak-stats.demolab.com/?user=Spyder01&theme=gruvbox)
+[![Spyder01's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyder01)](https://github.com/anuraghazra/github-readme-stats)
