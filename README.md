@@ -26,9 +26,9 @@ Currently focused on:
 
 ## Writing
 
-I write deep dives about building databases and storage engines from scratch on :contentReference[oaicite:0]{index=0}
+I write deep dives about building databases and storage engines from scratch on [Devtales](https://devtales.suhan.art)
 
-Topics include:
+Topics include but not limited to:
 - File formats
 - WAL design
 - Graph traversal
