@@ -65,7 +65,7 @@ I write deep dives about building databases and storage engines from scratch, yo
 
 ## GitHub Stats
 
-[![Top Langs](https://vercel.app)](https://github.com/spyder01/github-readme-stats)
+![Top Langs](https://github.com/spyder01/github-readme-stats)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=spyder01&show_icons=true&theme=tokyonight)
 
