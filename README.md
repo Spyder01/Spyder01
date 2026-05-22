@@ -50,12 +50,4 @@ Topics include:
 
 ---
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyder01&layout=compact&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=spyder01&show_icons=true&theme=tokyonight)
-
----
-
 > “Every database is ultimately a file.”
