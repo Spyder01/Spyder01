@@ -1,27 +1,13 @@
 # Hi, I'm Suhan Bangera 👋
 
-I like learning about low-level systems software, databases, runtimes, and developer tools.
+I enjoy learning about low-level systems software, databases, runtimes, and developer tools.
 
 Currently focused on:
 
-- 🕸️ Building **Nexora** — a single-file graph database in Rust
-- ⚡ Exploring storage engines, WALs, buffer pools, and query systems
+- 🕸️ Building databases and storage engines
+- ⚡ Exploring WALs, buffer pools, query systems, and file formats
 - 🧠 Learning systems programming, database internals, and runtime design
-- 🛠️ Building developer infrastructure and backend systems in Go and Rust
-
----
-
-## Current Projects
-
-### Nexora
-A native embedded graph database focused on:
-- fixed-size page storage
-- crash safety
-- memory efficiency
-- graph traversal performance
-
-### Hermyx
-A reverse proxy and caching layer with disk-backed caching.
+- 🛠️ Building backend infrastructure in Go, Rust, and Odin
 
 ---
 
@@ -40,8 +26,9 @@ A reverse proxy and caching layer with disk-backed caching.
 
 ## Writing
 
-I write deep dives about building databases and storage engines from scratch, you can check them out here in [Devatales](https://devtales.suhan.art)
+I write deep dives about building databases and storage engines from scratch on :contentReference[oaicite:0]{index=0}
 
+Topics include:
 - File formats
 - WAL design
 - Graph traversal
@@ -65,7 +52,7 @@ I write deep dives about building databases and storage engines from scratch, yo
 
 ## GitHub Stats
 
-![Top Langs](https://github.com/spyder01/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyder01&layout=compact&theme=tokyonight)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=spyder01&show_icons=true&theme=tokyonight)
 
